@@ -5,20 +5,24 @@ This script is designed to scan a directory and rename files based on their MIME
 ## Usage
 
 1. **Clone the Repository:**
+```bash
 git clone https://github.com/imenemedjaoui/file_ext_recover.git
-
+```
 
 2. **Navigate to the Directory:**
+```bash
 cd your-repository
-
+```
 
 3. **Install Dependencies:**
+```bash
 pip install -r requirements.txt
-
+```
 
 4. **Run the Script:**
+```bash
 python rename_files.py
-
+```
 
 5. **Provide the Directory Path:**
 Input the directory path containing the files you want to rename when prompted.
