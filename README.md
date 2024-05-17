@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ```
 
 4. **Put the Files in the same Directory:**
-  Make sure to put the files you want to rename in the same directory as the script.
+- Make sure to put the files you want to rename in the same directory as the script.
 
 6. **Run the Script:**
 ```bash
