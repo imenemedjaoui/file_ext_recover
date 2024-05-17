@@ -1,6 +1,6 @@
 # File Renaming Script
 
-This script is designed to scan a directory and rename files based on their MIME types. It can be useful for organizing files by type or correcting file extensions.
+This script is designed to scan a directory and rename files based on their MIME types. It can be useful for organizing files by type or recovering file extensions.
 
 ## Usage
 
