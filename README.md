@@ -31,8 +31,8 @@ Input the directory path containing the files you want to rename when prompted.
 ## Dependencies
 
 - **Python 3.x**
-- **python-magic:** 
-- **python-magic-bin:** 
+- **python-magic** 
+- **python-magic-bin** 
 
 
 ## When to Use
