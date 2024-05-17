@@ -47,5 +47,5 @@ def identify_files_in_directory(directory_path):
     print("=" * 85)  # Separator line
     print("✅ Scan and correction complete.")
 
-directory_path = 'C:\\Users\\Aser\\Desktop\\my script'
+directory_path = 'C:\\Users\\Your\\Path\\Here'
 identify_files_in_directory(directory_path)
