@@ -19,20 +19,20 @@ cd your-repository
 pip install -r requirements.txt
 ```
 
-4. **Run the Script:**
+4. **Put the Files in the same Directory:**
+Make sure to put the files you want to rename in the same directory as the script.
+
+6. **Run the Script:**
 ```bash
 python rename_files.py
 ```
-
-5. **Provide the Directory Path:**
-Input the directory path containing the files you want to rename when prompted.
 
 
 ## Dependencies
 
 - **Python 3.x**
 - **python-magic** 
-- **python-magic-bin** 
+- **python-magic-bin:** This is a Windows-compatible version of the `python-magic` library.
 
 
 ## When to Use
